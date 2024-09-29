@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Find Shortest Path</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+    <h1>Find the Shortest Path Between Two Districts</h1>
+    <form id="path-form">
+        <label for="start">Start District:</label>
+        <input type="text" id="start" name="start" required><br><br>
+
+        <label for="end">End District:</label>
+        <input type="text" id="end" name="end" required><br><br>
+
+        <button type="submit">Find Path</button>
+    </form>
+
+    <div id="result"></div>
+</body>
+</html>

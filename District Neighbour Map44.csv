@@ -1,0 +1,47 @@
+Main_Stat_ Name,Main_District_Name,Neighbour_1,Neighbour _2,Neighbour_3,Neighbour_4,Neighbour_5,Neighbour_6,Neighbour _7
+Assam,Nagaon,East Karbi Anglong,West Karbi Anglong,Morigaon,Sonitpur,Darrang,Hojai,Biswanath
+Bihar,Khagaria,Begusarai,Bhagalpur,Munger (Monghyr),Madhepura,Saharsa,Darbhanga,Samastipur
+Bihar,Muzaffarpur,Darbhanga,East Champaran (Motihari),Samastipur,Vaishali,Saran,Sheohar,Gopalganj
+Bihar,Patna,Arwal,Begusarai,Bhojpur,Jehanabad,Lakhisarai,Nalanda,Samastipur
+Bihar,Samastipur,Begusarai,Darbhanga,Khagaria,Muzaffarpur,Patna,Saharsa,Vaishali
+Chhattisgarh,Baloda Bazar,Bilaspur,Bemetara,Janjgir-Champa,Mahasamund,Mungeli,Raigarh,Raipur
+Gujarat,Ahmedabad,Anand,Gandhinagar,Kheda,Mehsana,Botad,Bhavnagar,Surendranagar
+Gujarat,Kheda,Ahmedabad,Anand,Aravalli,Gandhinagar,Panchmahal,Vadodara,Mahisagar
+Gujarat,Rajkot,Amreli,Botad,Jamnagar,Morbi,Porbandar,Junagadh,Surendranagar
+Gujarat,Surendranagar,Ahmedabad,Botad,Kutch,Mehsana,Morbi,Patan,Rajkot
+Haryana,Jind,Fatehabad,Hisar,Kaithal,Rohtak,Sonipat,Karnal,Panipat
+Jammu and Kashmir,Poonch,Reasi,Rajouri,Kulgam,Shopian,Budgam,Baramulla,Mirpur
+Jammu and Kashmir,Anantnag,Ramban,Kishtwar,Doda,Kulgam,Pulwama,Shopian,Srinagar
+Jammu and Kashmir,Kulgam,Reasi,Rajouri,Poonch,Ramban,Pulwama,Shopian,Anantnag
+Jammu and Kashmir,Baramulla,Poonch,Budgam,Srinagar,Ganderbal,Bandipora,Kupwara,Muzaffarabad
+Jammu and Kashmir,Gilgit Wazarat,Ladakh (northern and eastern portions),Gilgit,Gilgit,Chilas,Muzaffarabad,Bandipora,Kupwara
+Jharkhand,Ranchi,Chatra,Gumla,Hazaribagh,Khunti,Latehar,Lohardaga,Ramgarh
+Karnataka,Tumakuru,Bangalore Rural,Chikballapur,Mandya,Ramanagara,Chikkamagaluru,Chitradurga,Hassan
+Manipur,Kangpokpi,Senapati,Ukhrul,Imphal East,Imphal West,Kamjong,Tengnoupal,Thoubal
+Odisha,Angul,Deogarh,Sambalpur,Kendujhar,Dhenkanal,Cuttack,Boudh,Sundargarh
+Odisha,Boudh,Sonepur,Balangir,Kandhamal,Nayagarh,Angul,Sambalpur,Kalahandi
+Odisha,Cuttack,Angul,Dhenkanal,Kendrapara,Jajpur,Nayagarh,Khordha,Jagatsinghpur
+Odisha,Kalahandi,Nabarangpur,Nuapada,Balangir,Kandhamal,Rayagada,Koraput,Boudh
+Odisha,Kandhamal,Boudh,Nayagarh,Gajapati,Ganjam,Rayagada,Kalahandi,Balangir
+Odisha,Kendujhar,Mayurbhanj,Sundargarh,Angul,Dhenkanal,Jajpur,Bhadrak,Balasore
+Odisha,Sambalpur,Bargarh,Sundargarh,Sonepur,Jharsuguda,Deogarh,Angul,Boudh
+Punjab,Ferozepur,Sri Muktsar Sahib,Fazilka,Faridkot,Moga,Ludhiana,Tarn Taran,Jalandhar
+Punjab,Ludhiana,Jalandhar,Shahid Bhagat Singh Nagar,Ferozepur,Fatehgarh Sahib,Sangrur,Barnala,Moga
+Tamil Nadu,Tiruchirappalli,Karur,Madurai,Namakkal,Perambalur,Pudukkottai,Salem,Sivaganga
+Tamil Nadu,Tiruvannamalai,Kallakurichi,Kanchipuram,Dharmapuri,Vellore,Tirupattur,Chengalpattu,Viluppuram
+Telangana,Karimnagar,Jagtial,Jayashankar Bhupalpally,Rajanna Sircilla,Peddapalli,Warangal Rural,Warangal Urban,Siddipet
+Telangana,Ranga Reddy,Hyderabad,Mahbubnagar,Medchal-Malkajgiri,Nagarkurnool,Nalgonda,Yadadri Bhuvanagiri,Vikarabad
+Telangana,Siddipet,Jangaon,Yadadri Bhuvanagiri,Karimnagar,Medak,Medchal-Malkajgiri,Rajanna Sircilla,Warangal Urban
+Uttar Pradesh,Amroha,Moradabad,Ghaziabad,Bijnor,Rampur,Budaun,Meerut,Bulandshahr
+Uttar Pradesh,Barabanki,Lucknow,Rae Bareli,Bahraich,Gonda,Sultanpur,Sitapur,Faizabad
+Uttar Pradesh,Budaun,Bareilly,Bulandshahr,Etah,Rampur,Moradabad,Shahjahanpur,Farrukhabad
+Uttar Pradesh,Fatehpur,Rae Bareli,Banda,Kaushambi,Unnao,Hamirpur,Kanpur Nagar,Chitrakoot
+Uttar Pradesh,Gonda,Balrampur,Faizabad,Shrawasti,Bahraich,Barabanki,Basti,Siddharthnagar
+Uttar Pradesh,Hamirpur,Jhansi,Banda,Kanpur Nagar,Jalaun,Kanpur Dehat,Fatehpur,Mahoba
+Uttar Pradesh,Hardoi,Kannauj,Farrukhabad,Shahjahanpur,Sitapur,Kheri,Unnao,Kanpur Nagar
+Uttar Pradesh,Jaunpur,Sant Ravidas Nagar,Varanasi,Azamgarh,Sultanpur,Allahabad,Pratapgarh,Ghazipur
+Uttar Pradesh,Kannauj,Hardoi,Farrukhabad,Kanpur Dehat,Auraiya,Kanpur Nagar,Manipuri,Etawah
+Uttar Pradesh,Meerut,Hapur,Ghaziabad,Baghpat,Muzaffarnagar,Shamli,Bijnor,Amroha
+Uttar Pradesh,Rae Bareli,Fatehpur,Gauriganj,Lucknow,Barabanki,Kaushambi,Unnao,Pratapgarh
+Uttarakhand,Pauri Garhwal,Chamoli,Dehradun,Haridwar,Tehri Garhwal,Rudraprayag,Almora,Nainital
+Delhi,Central Delhi,North East Delhi,North Delhi,North West Delhi,West Delhi,New Delhi,Shahdara,East Delhi
